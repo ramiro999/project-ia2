@@ -29,13 +29,13 @@ Se trabajó con un conjunto de datos de acceso abierto realizado por el Centro e
   <li><a href="https://youtu.be/XgxFnap6XNU">Video</a> </li>
   <li><a href="https://github.com/ramiro999/project-ia2/blob/main/GeoCode_Final.ipynb"">Notebook</a> </li>
   <li><a href="https://github.com/ramiro999/project-ia2.git">Repositorio</a> </li>
+  <li><a href="https://gamma.app/docs/Geocode-Cartografia-asistida-por-inteligencia-artificial-utilizan-iy9phcqzriklqrb">Presentación</a></li>
 </ul>
 
 ## Resumen
 Este proyecto consiste en segmentar imágenes aéreas de la zona metropolitana de Bucaramanga para llevar a cabo la diferenciación y clasificación del uso del suelo. La segmentación se realizará variando por diferentes factores, como el nivel de detalle requerido, la capacidad computacional y las clases asignadas.
 
 Para lograr esta generación automática, se está empleando cartografía preexistente creada de forma manual para entrenar un modelo de redes neuronales que sea capaz de hacer el señalamiento de predios y de caracterización del uso de suelo del área metropolitana de Bucaramanga. El modelo tendrá como input la imagen cruda de la ortofoto y como output la caracterización necesaria, es decir la cartografía.
-
 
 
   
