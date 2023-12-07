@@ -17,7 +17,7 @@ Segmentar imágenes aéreas de la zona metropolitana de Bucaramanga para llevar 
 
 Se trabajó con un conjunto de datos de acceso abierto realizado por el Centro espacial Mohammed Bin Rashid en Dubai, Emiratos Árabes Unidos. 
 
-##Modelos:
+## Modelos:
 
 - Modelo U-net
 - Autoencoder
