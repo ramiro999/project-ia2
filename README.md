@@ -11,10 +11,11 @@ Para lograr esta generación automática, se está empleando cartografía preexi
 
 ## Objetivos
 - Segmentar imágenes aéreas de la zona metropolitana de Bucaramanga para llevar a cabo la diferenciación y clasificación del uso del suelo.
-5 clases para segmentación:
+6 clases para segmentación:
   - Área caminable :children_crossing:
   - Área construida :construction:
   - Carretera :truck:
+  - Agua 💧
   - Zonas verdes :seedling:
   - Recortes Juntos :white_check_mark:
   
