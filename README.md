@@ -19,10 +19,10 @@ Se trabajó con un conjunto de datos de acceso abierto realizado por el Centro e
 
 ##Modelos:
 
-Modelo U-net
-Autoencoder
-Indice de Jaccard
-Dice Loss
+- Modelo U-net
+- Autoencoder
+- Indice de Jaccard
+- Dice Loss
 
 
 ## Resumen
