@@ -24,7 +24,6 @@ Se trabajó con un conjunto de datos de acceso abierto realizado por el Centro e
 - Indice de Jaccard
 - Dice Loss
 
-- 
 <strong>Enlaces importantes: </strong>
 <ul>
   <li><a href="https://youtu.be/XgxFnap6XNU">Video</a> </li>
