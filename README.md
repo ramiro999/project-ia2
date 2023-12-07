@@ -26,7 +26,7 @@ Se trabajó con un conjunto de datos de acceso abierto realizado por el Centro e
 
 <strong>Enlaces importantes: </strong>
 <ul>
-  <li><a href="https://youtu.be/XgxFnap6XNU">Video</a> </li>
+  <li><a href="https://youtu.be/mwBUir-3-yQ?si=kIgthL8pH5kjKCOE">Video</a> </li>
   <li><a href="https://github.com/ramiro999/project-ia2/blob/main/GeoCode_Final.ipynb"">Notebook</a> </li>
   <li><a href="https://github.com/ramiro999/project-ia2.git">Repositorio</a> </li>
   <li><a href="https://gamma.app/docs/Geocode-Cartografia-asistida-por-inteligencia-artificial-utilizan-iy9phcqzriklqrb">Presentación</a></li>
